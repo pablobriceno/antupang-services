@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkantupang_services"]=self["webpackChunkantupang_services"]||[]).push([[151],{3151:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var s=function(){var n=this,e=n._self._c;return e("h1",[n._v("Preguntas más frecuentes")])},t=[],r={},a=r,c=u(1001),l=(0,c.Z)(a,s,t,!1,null,null,null),f=l.exports}}]);
+//# sourceMappingURL=151.2d72782b.js.map
