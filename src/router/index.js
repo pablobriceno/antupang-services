@@ -10,6 +10,14 @@ const routes = [
     name: "home",
     component: HomeView,
   },
+  {
+    path: "/faq",
+    name: "faq",
+    component: () => import("../views/FaqView.vue"),
+    meta: {
+      title: "Preguntas frecuentes",
+    },
+  },
 ];
 
 const router = new VueRouter({
